@@ -14,7 +14,7 @@ const Banner = () => {
       <h1 className="text-2xl lg:text-5xl text-slate-600 font-bold">DR MD. NASIR UDDIN BHUIYAN</h1>
       <p className="py-6 text-sky-600 font-medium">MBBS & BCS (Health), PGT (Gynae) MPH(LU), Ph.D (RH), RCH <br></br>SRHS, Health & Medical Science</p>
       <p className="font-medium text-slate-500">Rtd.Deputy Director, DG Health (Ministry of Health)<br></br> Principal, Institute of Health Technology, Sylhet</p>
-      <a href="tel:+8801783970442" className="btn btn-primary mt-3"><FaPhoneAlt /> Contact Me</a>
+      <a href="tel:+8801707077941" className="btn btn-primary mt-3"><FaPhoneAlt /> Contact Me</a>
     </div>
   </div>
 </div>

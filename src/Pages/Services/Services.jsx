@@ -9,7 +9,7 @@ const Services = () => {
     return (
         <div className="bg-slate-300">
             <h1 className="text-slate-800 text-3xl font-bold pt-16 pb-5 text-center">Services</h1>
-            <p className='text-slate-800 font-medium text-center'>I am Dr. Md. Nasir Uddin Bhuiyan, offering professional services in Maternal & Child Health, Gynaecology & Obstetrics, Public Health, and Respiratory Medicine to ensure quality care and community well-being.</p>
+            <p className='text-slate-800 font-medium text-center pb-12 lg:pb-0'>I am Dr. Md. Nasir Uddin Bhuiyan, offering professional services in Maternal & Child Health, Gynaecology & Obstetrics, Public Health, and Respiratory Medicine to ensure quality care and community well-being.</p>
 
             <div className='grid grid-cols-1 lg:grid-cols-2 gap-7 pl-0 lg:pl-32 content-center p-0 lg:p-20'>
                 <div >
