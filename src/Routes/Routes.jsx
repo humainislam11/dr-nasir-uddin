@@ -8,6 +8,7 @@ import About from "../Pages/About/About";
 import Services from "../Pages/Services/Services";
 import Appointment from "../Pages/Appointment/Appointment";
 import AllGallery from "../Pages/AllGallery/AllGallery";
+import Contact from "../Pages/Contact/Contact";
 
 export const router = createBrowserRouter([
   {
@@ -29,6 +30,9 @@ export const router = createBrowserRouter([
         },{
           path: "/gallery",
           element: <AllGallery></AllGallery>
+        },{
+          path:"/contact",
+          element: <Contact></Contact>
         }
         
     ]
