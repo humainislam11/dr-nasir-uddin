@@ -54,15 +54,9 @@ export default function Footer() {
               <a aria-label="Facebook" href="https://www.facebook.com/share/1CMv2yYNC8/?mibextid=wwXIfr" className="rounded-xl p-2 ring-1 ring-neutral-200 transition hover:bg-neutral-100 dark:ring-neutral-700 dark:hover:bg-neutral-800">
                 <FaFacebook className="h-4 w-4" />
               </a>
-              <a aria-label="YouTube" href="#" className="rounded-xl p-2 ring-1 ring-neutral-200 transition hover:bg-neutral-100 dark:ring-neutral-700 dark:hover:bg-neutral-800">
-                <FaYoutube className="h-4 w-4" />
-              </a>
-              <a aria-label="Instagram" href="#" className="rounded-xl p-2 ring-1 ring-neutral-200 transition hover:bg-neutral-100 dark:ring-neutral-700 dark:hover:bg-neutral-800">
-                <FaInstagram className="h-4 w-4" />
-              </a>
-              <a aria-label="LinkedIn" href="#" className="rounded-xl p-2 ring-1 ring-neutral-200 transition hover:bg-neutral-100 dark:ring-neutral-700 dark:hover:bg-neutral-800">
-                <FaLinkedin className="h-4 w-4" />
-              </a>
+              
+              
+              
             </div>
           </div>
 
