@@ -112,7 +112,7 @@ const AllGallery = () => {
   };
   
   return (
-    <div className="max-w-6xl mx-auto py-12 px-4 bg-slate-200">
+    <div className="mx-auto py-12 px-4 bg-slate-200">
       <div className="text-center mb-10">
         <h2 className="text-4xl font-extrabold text-gray-900 mt-6"> Event Gallery</h2>
         <p className="pt-2 font-medium p-4 mt-3 text-lg text-gray-600">Our event gallery is organized into six primary categories, showcasing a collection of photographs from our various activities. Each category provides a dedicated view of our work. Simply click on a category to explore the related photos directly on this page, ensuring a smooth and seamless user experience.</p>

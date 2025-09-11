@@ -18,7 +18,7 @@ const Appointment = () => {
 
                 <div className="flex pl-0 lg:pl-[400px] gap-2 pt-2">
                     <IoLocation className="text-slate-700  text-[15px] lg:text-[17px] lg:mt-[5px] "/>
-                    <h1 className="text-center text-[14px] lg:text-[18px] font-bold text-slate-700"> Koytak, Jaoa Bazar, Chhatak, Sunamganj</h1>
+                    <h1 className="text-center text-[14px] lg:text-[18px] font-bold text-slate-700"> Koitak, Jawa Bazar, Chhatak, Sunamganj</h1>
                 </div>
 
                  <div className="flex lg:pl-[400px] gap-2 pt-2">
@@ -26,7 +26,7 @@ const Appointment = () => {
                     <h1 className="text-center text-[14px] lg:text-[18px] font-bold text-slate-700">  For Serial : +8801704-618000</h1>
                 </div>
                 <div>
-                    <h1 className="text-center text-[14px] lg:text-[18px] font-bold text-slate-700 pb-6"> <a className="lg:pl-7 text-slate-800">Visiting Hours:</a> Every Sunday & Tuesday</h1>
+                    <h1 className="text-center text-[14px] lg:text-[18px] font-bold text-slate-700 pb-6 lg:pr-36"> <a className=" text-slate-800">Visiting Hours:</a> Every Sunday & Tuesday</h1>
                 </div>
             </div>
 
@@ -73,7 +73,7 @@ const Appointment = () => {
                     <h1 className="text-center text-[14px] lg:text-[18px] font-bold text-slate-700">  For Serial : +8801709367564</h1>
                 </div>
                 <div>
-                    <h1 className="text-center text-[14px] lg:text-[18px] font-bold text-slate-700 pb-6"> <a className=" text-slate-800">Visiting Hours:</a> Every Saturday from 3 PM to 6 PM</h1>
+                    <h1 className="text-center text-[14px] lg:text-[18px] font-bold text-slate-700 pb-6 lg:pr-16"> <a className=" text-slate-800">Visiting Hours:</a> Every Saturday from 3 PM to 6 PM</h1>
                 </div>
             </div>
 

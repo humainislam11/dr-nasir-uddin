@@ -3,6 +3,7 @@ import AllGallery from "../AllGallery/AllGallery";
 import Appointment from "../Appointment/Appointment";
 import Banner from "../Banner/Banner";
 import Contact from "../Contact/Contact";
+import Publications from "../Publications/Publications";
 import Services from "../Services/Services";
 
 const Home = () => {
@@ -11,6 +12,7 @@ const Home = () => {
              
             <Banner></Banner>
             <About></About>
+            <Publications></Publications>
             <Services></Services>
             <Appointment></Appointment>
             

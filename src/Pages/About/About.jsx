@@ -15,7 +15,12 @@ const About = () => {
                         <p>Ex-Principal, Institute of Health Technology, Sylhet</p>
                         <p>Ex-Civil Surgeon, Habiganj</p>
                         <p>Ex-Associate Professor, LU & Faculty Adjunct (MPH)</p>
-                        <p>Ex-Superintendent, Sylhet Divisional Heart Hospital</p>
+                        <p>Ex-Superintendent, Habiganj Sadar Hospital</p>
+                        <p>Ex- UHFPO, Upazila Healh Complex</p>
+                        <p>Ex- UHFPO, Duara bazar upazila health complex </p>
+                        <p>Ex- EMO, Sunamganj sadar hospital</p>
+                        <p>Ex- Medical Officer in different upazila health complex</p>
+                        <p>Ex- Teacher of Nursing institute sylhet </p>
                     </div>
                 </div>
 
@@ -23,6 +28,8 @@ const About = () => {
                 <div className="bg-gray-50 p-5">
                      <h1 className="text-2xl text-slate-700 font-bold">Educational Qualifications</h1>
                       <div className="font-semibold text-slate-500 pl-3 mt-2">
+                        <p>SSC- Comilla Zila High School</p>
+                        <p>HSC- Dhaka College </p>
                         <p>MBBS & BCS (Health)</p>
                         <p> PGT (Gynae) MPH (LU) Ph.D (RH)</p>
                         <p>RCH, SRHS, Health & Medical Science</p>
