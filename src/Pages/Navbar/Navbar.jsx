@@ -17,7 +17,10 @@ const Navbar = () => {
 
  <NavLink className={({isActive})=>isActive? 'font-semibold text-green-400  hover:text-orange-400': 'font-semibold'} to='/contact' >Contact</NavLink>
 
+ <NavLink className={({isActive})=>isActive? 'font-semibold text-green-400  hover:text-orange-400': 'font-semibold'} to='/publication' >Publication</NavLink>
+
 </>
+
 
     return (
        <div className="navbar  fixed z-10 bg-opacity-30 w-full mx-auto text-white bg-black">
